@@ -26,5 +26,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 
 - ✅ Day 01: Connect Streamlit to Snowflake
 - ✅ Day 02: Run a LLM (Cortex AI) directly within Snowflake
+- ✅ Day 03: Run a Snowflake Cortex LLM using the real-time LLM streaming.
 
 More coming soon 🚀
