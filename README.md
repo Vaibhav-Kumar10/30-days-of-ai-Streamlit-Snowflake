@@ -29,5 +29,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 03: Run a Snowflake Cortex LLM using the real-time LLM streaming.
 - ✅ Day 04: Caching your App (Snowflake Cortex + Streamlit).
 - ✅ Day 05: LinkedIn Post Generator (Snowflake Cortex + Streamlit).
+- ✅ Day 06: LinkedIn Post Generator v2 - Status UI for Long-Running Task.
 
 More coming soon 🚀
