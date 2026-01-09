@@ -83,4 +83,4 @@ if st.button("Generate Post"):
 
 # Footer
 st.divider()
-st.caption("Day 5: LinkedIn Post Generator | 30 Days of AI")
+st.caption("Day 6: LinkedIn Post Generator v2 | 30 Days of AI")
