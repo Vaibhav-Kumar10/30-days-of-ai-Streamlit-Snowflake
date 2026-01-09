@@ -70,4 +70,4 @@ For production-grade AI apps:
 
 ## Screenshot
 
-![Day  Output](../screenshots/day06_success.png)
+![Day 6 Output](../screenshots/day06_success.png)
