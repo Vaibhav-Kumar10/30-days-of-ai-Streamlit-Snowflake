@@ -33,5 +33,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 07: LinkedIn Post Generator v3 - Theming and Layout.
 - ✅ Day 08: Meet the Chat Elements.
 - ✅ Day 09: Understanding Session State.
+- ✅ Day 09: Your First Chatbot (with State).
 
 More coming soon 🚀
