@@ -34,5 +34,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 08: Meet the Chat Elements.
 - ✅ Day 09: Understanding Session State.
 - ✅ Day 10: Your First Chatbot (with State).
+- ✅ Day 10: Displaying Chat History.
 
 More coming soon 🚀
