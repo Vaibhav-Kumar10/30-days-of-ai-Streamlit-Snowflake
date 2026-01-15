@@ -36,5 +36,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 10: Your First Chatbot (with State).
 - ✅ Day 11: Displaying Chat History.
 - ✅ Day 12: Streaming Responses.
+- ✅ Day 13: Adding a System Prompt.
 
 More coming soon 🚀
