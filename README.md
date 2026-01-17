@@ -38,5 +38,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 12: Streaming Responses.
 - ✅ Day 13: Adding a System Prompt.
 - ✅ Day 14: Adding Avatars and Error Handling.
+- ✅ Day 15: Model Comparison Arena.
 
 More coming soon 🚀
