@@ -126,5 +126,5 @@ This chatbot now behaves like a **real-world AI application**, not just a demo.
 
 ## Screenshot
 
-![Day 13 Output](<../screenshots/day14_success (1).png>)
-![Day 13 Output](<../screenshots/day14_success (2).png>)
+![Day 14 Output](<../screenshots/day14_success (1).png>)
+![Day 14 Output](<../screenshots/day14_success (2).png>)
