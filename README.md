@@ -40,5 +40,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 14: Adding Avatars and Error Handling.
 - ✅ Day 15: Model Comparison Arena.
 - ✅ Day 16: Batch Document Text Extractor for RAG.
+- ✅ Day 17: Loading and Transforming Customer Reviews for RAG.
 
 More coming soon 🚀
