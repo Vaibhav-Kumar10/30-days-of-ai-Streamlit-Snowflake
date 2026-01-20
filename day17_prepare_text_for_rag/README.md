@@ -92,4 +92,4 @@ Day 18 will generate embeddings for these chunks and enable semantic search usin
 
 ![Day 17 Output](<../screenshots/day17_success (1).png>)
 ![Day 17 Output](<../screenshots/day17_success (2).png>)
-![Day 17 Output](<../screenshots/day17_success (2).png>)
+![Day 17 Output](<../screenshots/day17_success (3).png>)
