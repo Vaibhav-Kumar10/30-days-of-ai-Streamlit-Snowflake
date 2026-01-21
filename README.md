@@ -42,5 +42,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 16: Batch Document Text Extractor for RAG.
 - ✅ Day 17: Loading and Transforming Customer Reviews for RAG.
 - ✅ Day 18: Generating Embeddings for Customer Reviews.
+- ✅ Day 19: Creating Cortex Search for Customer Reviews.
 
 More coming soon 🚀
