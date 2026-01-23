@@ -44,5 +44,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 18: Generating Embeddings for Customer Reviews.
 - ✅ Day 19: Creating Cortex Search for Customer Reviews.
 - ✅ Day 20: Querying Cortex Search.
+- ✅ Day 21: RAG with Cortex Search.
 
 More coming soon 🚀
