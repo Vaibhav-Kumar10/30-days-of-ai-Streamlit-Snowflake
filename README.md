@@ -45,5 +45,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 19: Creating Cortex Search for Customer Reviews.
 - ✅ Day 20: Querying Cortex Search.
 - ✅ Day 21: RAG with Cortex Search.
+- ✅ Day 22: Chat with Your Documents.
 
 More coming soon 🚀
