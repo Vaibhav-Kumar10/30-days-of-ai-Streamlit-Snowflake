@@ -48,5 +48,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 22: Chat with Your Documents.
 - ✅ Day 23: LLM Evaluation & AI Observability.
 - ✅ Day 24: Working with Images (Multimodality).
+- ✅ Day 25: Voice Interface.
 
 More coming soon 🚀
