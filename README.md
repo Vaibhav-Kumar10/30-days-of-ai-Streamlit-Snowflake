@@ -50,5 +50,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 24: Working with Images (Multimodality).
 - ✅ Day 25: Voice Interface.
 - ✅ Day 26: Introduction to Cortex Agents.
+- ✅ Day 27: Multi-Tool Agent Orchestration.
 
 More coming soon 🚀
