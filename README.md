@@ -51,5 +51,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 25: Voice Interface.
 - ✅ Day 26: Introduction to Cortex Agents.
 - ✅ Day 27: Multi-Tool Agent Orchestration.
+- ✅ Day 28: Building Apps with AI Assistants using AGENTS.md.
 
 More coming soon 🚀
