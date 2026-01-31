@@ -1,0 +1,4 @@
+langchain-core>=0.3.0
+langchain-snowflake>=0.1.0
+snowflake-snowpark-python>=1.18.0,<2.0
+streamlit>=1.53.0
