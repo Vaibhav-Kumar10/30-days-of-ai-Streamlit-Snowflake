@@ -53,6 +53,6 @@ Over 30 days, I’m building hands-on AI-powered applications using:
 - ✅ Day 27: Multi-Tool Agent Orchestration.
 - ✅ Day 28: Building Apps with AI Assistants using AGENTS.md.
 - ✅ Day 29: LangChain Basics.
-- ✅ Day 30: LangChain Basics.
+- ✅ Day 30: Structured Output with Pydantic.
 
 More coming soon 🚀
